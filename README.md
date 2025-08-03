@@ -46,4 +46,5 @@ This repository is released under the MIT License.
 
 ## Contact
 
-For questions or feedback, please contact: `your.email@example.com`
+For questions or feedback, please contact: `abdalhakim.3.benkrama1@gmail.com
+`
