@@ -23,21 +23,30 @@ This repository includes implementations related to two research contributions:
 If you use this code, please cite the related publications:
 
 ```bibtex
-@article{loki2023qpert,
-  title={QPert: Query Perturbation to improve shape retrieval algorithms},
-  author={Your Name},
-  journal={Multimedia Tools and Applications},
-  year={2023},
-  publisher={Springer}
+
+@Article{Qpert2024,
+   author={Benkrama, Abdelhakim and Mokhtari, Bilal and Melkemi, Kamal Eddine and Foufou, Sebti and Michelucci, Dominique, and Omar Boudraa},
+   title={QPert: Query Perturbation to improve shape retrieval algorithms},
+   journal={Multimedia Tools and Applications},
+   year={2024},
+   month={Mar},
+   volume={83},
+   number={9},
+   pages={25461-25485},
+   issn={1573-7721}
 }
 
-@article{loki2024subconvfusion3d,
-  title={SubConvFusion3D: A Multi-Scale Sub-Convolutional Networks and Feature Fusion for 3D Deep Learning},
-  author={Your Name},
-  journal={IEEE Access},
+@INPROCEEDINGS{SubConvFusion3D,
+  author={Benkrama, Abdelhakim and Mokhtari, Bilal and Melkemi, Kamal Eddine and Foufou, Sebti and Michelucci, Dominique},
+  booktitle={2024 International Conference on Innovation and Intelligence for Informatics, Computing, and Technologies (3ICT)}, 
+  title={SubConvFusion3D: A Multi-Scale Sub-Convolutional Networks and Feature Fusion for 3D Deep Learning}, 
   year={2024},
-  publisher={IEEE}
-}
+  volume={},
+  number={},
+  pages={651-658},
+  keywords={Training;Point cloud compression;Computer vision;Technological innovation;Three-dimensional displays;Redundancy;Merging;Feature extraction;Vectors;Informatics;Computer vision and graphics;3D point cloud;feature extraction and fusion;sub-convolution networks},
+  doi={10.1109/3ict64318.2024.10824315}}
+
 ```
 
 ## License
