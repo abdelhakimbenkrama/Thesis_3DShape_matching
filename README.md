@@ -1,5 +1,5 @@
 
-# SubConvFusion3D-Collection
+# Shape matching using machine learning techniques -Collection
 
 This repository includes implementations related to two research contributions:
 
